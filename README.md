@@ -1,7 +1,6 @@
 Python Programming – 5 Modules
 
-About This Repository 
-This repository contains Python programs completed as part of my academic coursework. It includes basic Python concepts, problem-solving programs, data structures, file handling, and mini-projects across five modules.
+About This Repository This repository contains Python programs completed as part of my academic coursework. It includes basic Python concepts, problem-solving programs, data structures, file handling, and mini-projects across five modules.
 
 Module 1 – Python Basics Programs based on basic calculations and mathematical operations.
 "basic_calculator.py" – Performs basic arithmetic operations.
